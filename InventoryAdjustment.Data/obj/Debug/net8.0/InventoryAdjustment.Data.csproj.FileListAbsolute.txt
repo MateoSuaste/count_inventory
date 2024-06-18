@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\bin\Debug\net8.0\InventoryAdjustment.Data.deps.json
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\bin\Debug\net8.0\InventoryAdjustment.Data.runtimeconfig.json
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\bin\Debug\net8.0\InventoryAdjustment.Data.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\bin\Debug\net8.0\InventoryAdjustment.Data.pdb
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\bin\Debug\net8.0\InventoryAdjustment.Shared.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\bin\Debug\net8.0\InventoryAdjustment.Shared.pdb
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\Inventor.3D400C92.Up2Date
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\refint\InventoryAdjustment.Data.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.pdb
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\InventoryAdjustment.Data.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Data\obj\Debug\net8.0\ref\InventoryAdjustment.Data.dll

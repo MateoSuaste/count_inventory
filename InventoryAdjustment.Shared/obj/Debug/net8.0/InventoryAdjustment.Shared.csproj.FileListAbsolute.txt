@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\bin\Debug\net8.0\InventoryAdjustment.Shared.deps.json
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\bin\Debug\net8.0\InventoryAdjustment.Shared.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\bin\Debug\net8.0\InventoryAdjustment.Shared.pdb
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\InventoryAdjustment.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\InventoryAdjustment.Shared.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\InventoryAdjustment.Shared.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\InventoryAdjustment.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\InventoryAdjustment.Shared.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\refint\InventoryAdjustment.Shared.dll
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\InventoryAdjustment.Shared.pdb
+C:\Users\Usuario\source\repos\InventoryAdjustment\InventoryAdjustment.Shared\obj\Debug\net8.0\ref\InventoryAdjustment.Shared.dll
